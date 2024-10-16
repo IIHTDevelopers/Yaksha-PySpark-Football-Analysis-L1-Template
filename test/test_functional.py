@@ -2,7 +2,7 @@ import unittest
 from test.TestUtils import TestUtils
 
 # Assuming the functions are defined in another module, you can import them like this:
-from footballmain import *
+from football import *
 
 class FunctionalTest(unittest.TestCase):
 
